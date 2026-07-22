@@ -1,4 +1,3 @@
-<img width="1650" height="395" 
 
 <div align="center">
   
