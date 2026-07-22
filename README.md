@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/parthnarkar/parthnarkar/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/parthnarkar/parthnarkar/output/github-contribution-grid-snake-light.svg)
 
 </div>
 
